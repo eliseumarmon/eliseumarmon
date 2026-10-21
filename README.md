@@ -1,49 +1,54 @@
-# Hola, soy Eliseu Martínez
+<p align="center">
+  <img src="./assets/hero.svg" alt="Eliseu Martínez — Full Stack Developer" width="100%" />
+</p>
 
-**Desarrollador Full Stack Junior** · Técnico Superior en Desarrollo de Aplicaciones Web (DAW) · Actualmente cursando DAM
+<p align="center">
+  <a href="mailto:eliseumarmon@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101824?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/eliseumarmon?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIOS-101824?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
+</p>
 
-Me interesa el desarrollo de aplicaciones web de principio a fin: desde la interfaz y la lógica de negocio hasta el diseño de bases de datos y la integración de servicios externos. Me gusta entender los problemas, evaluar las decisiones técnicas y mejorar las soluciones a medida que aprendo.
+### Hola, soy Eliseu.
 
-## Tecnologías con las que trabajo
+Me gusta construir aplicaciones web desde dentro: **cómo se organiza la información, cómo se resuelve un problema en el backend y cómo termina llegando a la pantalla**.
 
-| Área | Tecnologías |
-| --- | --- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Vue.js, Bootstrap |
-| **Backend** | PHP, Laravel, Symfony, Twig, Node.js, Express |
-| **Datos** | SQL, MySQL, modelado y diseño de bases de datos relacionales |
-| **APIs** | REST, JSON, Leaflet, OpenStreetMap, Nominatim, Twitch/IGDB |
-| **Herramientas** | Git, GitHub, Docker, Docker Compose, Postman |
-| **También conozco** | WordPress, WooCommerce, Elementor, SEO con Yoast y fundamentos de Java |
+Soy técnico superior en **Desarrollo de Aplicaciones Web** y estoy cursando **DAM**. He trabajado con **PHP, Symfony y Twig** en aplicaciones empresariales, desarrollando funcionalidades que se incorporaron a producción.
 
-## Experiencia práctica
+### Con qué trabajo
 
-Durante mis **500 horas de prácticas de DAW** trabajé en dos entornos distintos:
+```text
+INTERFAZ       HTML · CSS · JavaScript · Vue
+BACKEND        PHP · Laravel · Symfony · Node.js · Express
+DATOS          SQL · MySQL · diseño relacional
+DÍA A DÍA      Git · Docker · Postman · APIs REST
+```
 
-- **Grup Apunts (380 h):** desarrollo con **PHP, Symfony y Twig** para aplicaciones empresariales. Diseñé e implementé un **centro de notificaciones** para Oficina Virtual Empresa y un **sistema de filtros de búsqueda guardados con un motor de fechas relativas**, capaz de interpretar reglas temporales definidas mediante estructuras JSON. Estas funcionalidades se incorporaron a productos en producción. También colaboré en proyectos WordPress.
-- **A.D.W. Solutions (120 h):** desarrollo y personalización de webs y tiendas online con **WordPress, WooCommerce y Elementor**, incluyendo optimización SEO con Yoast.
+También he trabajado con **WordPress, WooCommerce y Elementor**, y tengo fundamentos de Java.
 
-## Proyectos
+### Algunos proyectos
 
-### [ProxiMarkt](https://github.com/eliseumarmon/proxi-markt) · Marketplace de proximidad
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/eliseumarmon/proxi-markt"><img src="./assets/proximarkt.svg" alt="ProxiMarkt — Laravel, Vue y MySQL" width="100%" /></a>
+  <p><strong><a href="https://github.com/eliseumarmon/proxi-markt">ProxiMarkt ↗</a></strong></p>
+  <p>Marketplace de proximidad. Backend con Laravel, frontend con Vue, diseño de base de datos SQL y mapas con Leaflet y Nominatim.</p>
+  <p><code>PHP</code> <code>Laravel</code> <code>Vue</code> <code>MySQL</code></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/eliseumarmon/simple-share"><img src="./assets/simple-share.svg" alt="Simple Share — Python, HTTP y red local" width="100%" /></a>
+  <p><strong><a href="https://github.com/eliseumarmon/simple-share">Simple Share ↗</a></strong></p>
+  <p>Compartir archivos entre dispositivos de una red local desde el navegador, con acceso mediante códigos temporales y sin dependencias externas.</p>
+  <p><code>Python</code> <code>HTTP</code> <code>LAN</code></p>
+</td>
+</tr>
+</table>
 
-Aplicación con **Laravel, Vue.js y MySQL** para conectar a productores locales con consumidores. He trabajado en el diseño de su modelo de datos y esquema SQL, el desarrollo de funcionalidades de negocio y la integración de mapas con **Leaflet, OpenStreetMap y Nominatim**.
+### Del aula a producción
 
-Nació como proyecto académico en equipo y actualmente continúo su evolución como proyecto personal. **En desarrollo; todavía sin una demostración pública estable.**
+Durante mis prácticas en **Grup Apunts** diseñé un centro de notificaciones para *Oficina Virtual Empresa* y desarrollé un sistema de filtros guardados con un motor de **fechas relativas expresadas en JSON**. Me interesa especialmente ese tipo de retos: convertir necesidades reales en lógica reutilizable.
 
-### [Simple Share](https://github.com/eliseumarmon/simple-share) · Compartir archivos en red local
+---
 
-Herramienta en **Python** para compartir archivos y carpetas entre dispositivos mediante un navegador, sin dependencias externas. Incluye códigos temporales de acceso y paneles de control. Pensada para **redes locales de confianza**, no para exponerla directamente a Internet.
-
-## Formación y enfoque
-
-- **DAW finalizado** · IES Jaume II el Just.
-- **DAM en curso** · Segundo curso.
-- Formación complementaria en **Networking Basics (Cisco)**, **principios SOLID** y **patrones de diseño**.
-
-Me interesa especialmente seguir creciendo en desarrollo **Full Stack**, arquitectura de aplicaciones y calidad del software.
-
-## Contacto
-
-**Correo:** [eliseumarmon@gmail.com](mailto:eliseumarmon@gmail.com)
-
-> Este perfil está en evolución: prefiero documentar proyectos y aprendizajes reales antes que presentar funcionalidades que todavía no están terminadas.
+<p align="center">
+  <sub>Una interfaz clara. Una lógica que tenga sentido. Datos bien pensados.</sub>
+</p>
