@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-label="ProxiMarkt. Laravel, Vue y MySQL.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#173b38"/><stop offset="1" stop-color="#0e292e"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a9efd4" stroke-opacity=".07"/></pattern></defs>
+<rect width="560" height="230" rx="15" fill="url(#bg)"/><rect width="560" height="230" rx="15" fill="url(#grid)"/>
+<text x="27" y="40" fill="#84cfbc" font-size="13" letter-spacing="2" font-family="Consolas,monospace">01 / MARKETPLACE</text>
+<text x="27" y="110" fill="#f0f9f3" font-size="46" font-weight="700" letter-spacing="-1.5" font-family="Arial,sans-serif">ProxiMarkt</text>
+<text x="28" y="151" fill="#b7d7cb" font-size="16" font-family="Consolas,monospace">LARAVEL  /  VUE  /  MYSQL</text>
+<path d="M28 190H219" stroke="#5bdda9" stroke-width="3"/>
+<g fill="none" stroke="#82e7c3" stroke-width="2">
+<path d="M403 45l93 40-40 100-101-26z" stroke-opacity=".24"/>
+<path d="M377 171Q396 110 432 110T486 65" stroke-dasharray="6 8"/>
+</g>
+<circle cx="377" cy="171" r="10" fill="#63cf9e"/><circle cx="486" cy="65" r="8" fill="#d0ae72"/>
+<path d="M440 81c0-22-34-22-34 0 0 12 17 31 17 31s17-19 17-31z" fill="#8bdfb8" stroke="#e3ffe8" stroke-width="2"/>
+<circle cx="423" cy="81" r="6" fill="#143b35"/>
+<circle cx="476" cy="171" r="25" fill="#153e39" stroke="#5a997e"/>
+<path d="M466 169h20m-10-10v20" stroke="#7ae2b4" stroke-width="3"/>
+</svg>
