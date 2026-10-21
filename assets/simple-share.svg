@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-label="Simple Share. Python y transferencia de archivos en red local.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#24304b"/><stop offset="1" stop-color="#151e36"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d0ddff" stroke-opacity=".055"/></pattern></defs>
+<rect width="560" height="230" rx="15" fill="url(#bg)"/><rect width="560" height="230" rx="15" fill="url(#grid)"/>
+<text x="27" y="40" fill="#a4b6f2" font-size="13" letter-spacing="2" font-family="Consolas,monospace">02 / LOCAL SHARING</text>
+<text x="27" y="110" fill="#f2f5ff" font-size="45" font-weight="700" letter-spacing="-1.5" font-family="Arial,sans-serif">Simple Share</text>
+<text x="28" y="151" fill="#b9c6e8" font-size="16" font-family="Consolas,monospace">PYTHON  /  HTTP  /  LAN</text>
+<path d="M28 190H205" stroke="#a0b5fc" stroke-width="3"/>
+<g stroke="#7b98dd" fill="none" stroke-width="2">
+<rect x="335" y="78" width="74" height="65" rx="9" fill="#2e4470"/><path d="M350 96h43m-43 12h30m-30 12h36" stroke="#b6cafa"/>
+<rect x="463" y="95" width="67" height="62" rx="9" fill="#293a64"/><path d="M478 112h36m-36 11h22m-22 11h29" stroke="#b6cafa"/>
+<path d="M412 111h41" stroke="#bdd1ff" stroke-dasharray="5 6"/>
+</g>
+<path d="M444 105l9 6-9 6" fill="none" stroke="#bdd1ff" stroke-width="2"/>
+<circle cx="369" cy="174" r="11" fill="#9eb4ff"/><circle cx="485" cy="185" r="7" fill="#60d1c2"/>
+<path d="M376 178Q425 198 478 185" fill="none" stroke="#aac1f5" stroke-width="2" stroke-dasharray="4 7"/>
+</svg>
