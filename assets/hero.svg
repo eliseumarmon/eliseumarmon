@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="370" viewBox="0 0 1160 370" role="img" aria-label="Eliseu Martínez. Full Stack Developer. Del esquema SQL a lo que ves en pantalla.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101824"/><stop offset=".55" stop-color="#142335"/><stop offset="1" stop-color="#102b2a"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#55E4C2"/><stop offset="1" stop-color="#91CBFF"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d4fff5" stroke-opacity=".045" stroke-width="1"/></pattern>
+<clipPath id="clip"><rect width="1160" height="370" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1160" height="370" fill="url(#bg)"/>
+<rect width="1160" height="370" fill="url(#grid)"/>
+<circle cx="1024" cy="28" r="260" fill="#2be8b1" opacity=".05"/>
+<circle cx="690" cy="480" r="320" fill="#70bfff" opacity=".035"/>
+<path d="M24 25H80 M24 25V83 M1136 344H1080 M1136 344V286" fill="none" stroke="#6fe2cf" opacity=".38" stroke-width="2"/>
+<rect x="52" y="42" width="200" height="30" rx="15" fill="#233e45" stroke="#4f8589" stroke-opacity=".6"/>
+<circle cx="69" cy="57" r="4" fill="#62e1bd"/>
+<text x="81" y="62" fill="#b7e6df" font-size="12" font-family="Consolas,Menlo,monospace" letter-spacing="1.4">FULL STACK / WEB</text>
+<text x="49" y="158" fill="#f1f6fa" font-size="72" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="-3">ELISEU</text>
+<text x="49" y="235" fill="#f1f6fa" font-size="72" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="-3">MARTÍNEZ<tspan fill="#6de3c1">.</tspan></text>
+<path d="M53 259H405" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<text x="52" y="294" fill="#c2d1de" font-size="21" font-family="Arial,Helvetica,sans-serif">Del esquema SQL a lo que ves en pantalla.</text>
+<text x="52" y="341" fill="#71899c" font-size="14" font-family="Consolas,Menlo,monospace">github.com/eliseumarmon</text>
+<g font-family="Consolas,Menlo,monospace">
+<text x="706" y="73" fill="#6f98a8" font-size="12" letter-spacing="2">/ 3 CAPAS. UN MISMO PROYECTO.</text>
+<path d="M835 130V156 M835 206V232" stroke="#54ccb6" stroke-width="2" stroke-dasharray="4 5"/>
+<circle cx="835" cy="158" r="4" fill="#77e5cf"/><circle cx="835" cy="230" r="4" fill="#77e5cf"/>
+<rect x="670" y="92" width="328" height="48" rx="10" fill="#1b3544" stroke="#43657a"/>
+<rect x="670" y="92" width="5" height="48" rx="2" fill="#72dfff"/>
+<text x="694" y="121" fill="#f4f8fb" font-size="16">01</text><text x="752" y="121" fill="#bde4f3" font-size="16">INTERFAZ</text><text x="974" y="121" fill="#6598ad" text-anchor="end" font-size="12">VUE</text>
+<rect x="670" y="162" width="328" height="48" rx="10" fill="#193e40" stroke="#3d7271"/>
+<rect x="670" y="162" width="5" height="48" rx="2" fill="#6de3c1"/>
+<text x="694" y="191" fill="#f4f8fb" font-size="16">02</text><text x="752" y="191" fill="#d8f9e9" font-size="16">LÓGICA</text><text x="974" y="191" fill="#82b4a4" text-anchor="end" font-size="12">PHP</text>
+<rect x="670" y="232" width="328" height="48" rx="10" fill="#303540" stroke="#696777"/>
+<rect x="670" y="232" width="5" height="48" rx="2" fill="#eab579"/>
+<text x="694" y="261" fill="#f4f8fb" font-size="16">03</text><text x="752" y="261" fill="#f3e7d0" font-size="16">DATOS</text><text x="974" y="261" fill="#b3a18e" text-anchor="end" font-size="12">SQL</text>
+<text x="835" y="325" text-anchor="middle" fill="#6e8c9b" font-size="12" letter-spacing="1">INTERFAZ ↔ API ↔ BASE DE DATOS</text>
+</g>
+</g>
+</svg>
