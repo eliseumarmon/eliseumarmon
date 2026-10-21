@@ -41,6 +41,14 @@ También he trabajado con **WordPress, WooCommerce y Elementor**, y tengo fundam
   <p><code>Python</code> <code>HTTP</code> <code>LAN</code></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+  <a href="https://github.com/eliseumarmon/laravelinit"><img src="./assets/laravelinit.svg" alt="Laravel Init — PHP 8.5, Docker Compose y MySQL" width="100%" /></a>
+  <p><strong><a href="https://github.com/eliseumarmon/laravelinit">Laravel Init ↗</a></strong></p>
+  <p>Plantilla para arrancar proyectos Laravel con PHP 8.5, Nginx y MySQL. Automatiza la creación inicial con <code>make init</code> y permite configurar los puertos y permisos de cada entorno desde Docker Compose.</p>
+  <p><code>PHP 8.5</code> <code>Laravel</code> <code>Docker Compose</code> <code>Makefile</code></p>
+</td>
+</tr>
 </table>
 
 ### Del aula a producción
